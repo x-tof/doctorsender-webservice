@@ -1,5 +1,5 @@
 {
-    "name": "x-tof/webservice",
+    "name": "x-tof/doctorsender-webservice",
     "description": "Api to controll doctorsender service",
     "keywords": [
         "doctorsender",
@@ -9,7 +9,7 @@
         "mail",
         "marketing"
     ],
-    "homepage": "https://github.com/x-tof/webservice",
+    "homepage": "https://github.com/x-tof/doctorsender-webservice",
     "license": "Apache2",
     "require": {
         "php": ">=5.3.2",

@@ -10,7 +10,7 @@
         "marketing"
     ],
     "homepage": "https://github.com/x-tof/doctorsender-webservice",
-    "license": "Apache2",
+    "license": "Apache-2.0",
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": ">=3.4.0"

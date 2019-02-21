@@ -6,7 +6,7 @@ Doctorsender webservice to manage campaings, lists, users, etc..
 ##Install
 
 ```
-composer require doctorsender/webservice:dev-master
+composer require x-tof/webservice:dev-master
 ```
 
 Add it to your AppKernel.php

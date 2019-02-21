@@ -1,5 +1,5 @@
 {
-    "name": "doctorsender/webservice",
+    "name": "x-tof/webservice",
     "description": "Api to controll doctorsender service",
     "keywords": [
         "doctorsender",
@@ -9,11 +9,11 @@
         "mail",
         "marketing"
     ],
-    "homepage": "https://github.com/doctorsender/webservice",
+    "homepage": "https://github.com/x-tof/webservice",
     "license": "Apache2",
     "require": {
         "php": ">=5.3.2",
-        "symfony/framework-bundle": ">=2.0.0"
+        "symfony/framework-bundle": ">=3.4.0"
     },
     "autoload": {
         "psr-4": {"Doctorsender\\APIBundle\\": "Doctorsender/APIBundle"}
